@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1060415583757",
+    "project_id": "fiveguys-9ca35",
+    "storage_bucket": "fiveguys-9ca35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060415583757:android:66cec3dc7a63060d500744",
+        "android_client_info": {
+          "package_name": "com.example.fiveguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060415583757-56c550o0h9cl0f0ktks97q17itlqveuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiveguys",
+            "certificate_hash": "2b41f2dd6e3b6fb7120d533a4b5500039d730eb1"
+          }
+        },
+        {
+          "client_id": "1060415583757-97v5k7qu66pgu6nok4d6lk8743mq99v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvele9LNV1-MiqMSDh8PttbwzbSnqr-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060415583757-97v5k7qu66pgu6nok4d6lk8743mq99v3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060415583757-1du3bdn558gti9i95fcv9gil40abt63o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fiveguys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
